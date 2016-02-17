@@ -132,13 +132,12 @@ div#arrow-down a:visited{
 }
 
 hr {
-  
+
 }
 
 /* About Me section customization */
 /* background */
 .bg-about {
-  height: 100%;
   padding-top: 5%;
   padding-bottom: 5%;
   background-color: #eee;
@@ -177,12 +176,11 @@ hr {
   padding-bottom: 6%;
   padding-left: 12%;
   padding-right: 12%;
-  height: 100%;
   background: url('https://dl.dropboxusercontent.com/s/azx9xzkfbbgyhcc/work-bg-min.jpg?dl=0');
   color: #FFFFFF;
 }
 
-.store{     
+.store{
   color: #fff;
 }
 
@@ -201,7 +199,6 @@ hr {
 .bg-contact {
   padding-top: 5%;
   padding-bottom: 5%;
-  height: 100%;
   background-color: #FFF;
   color: #000;
 }
