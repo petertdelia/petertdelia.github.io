@@ -149,6 +149,15 @@ hr {
   color: #000;
 }
 
+.skills {
+  margin-top: 20px
+}
+
+#about hr {
+  border-color: black;
+  width: 70%;
+}
+
 /* title + text */
 #description {
   padding-left: 15%;
