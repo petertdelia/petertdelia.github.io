@@ -43,6 +43,10 @@ body {
   color: #fff;
 }
 
+.navbar-right.social {
+  margin-right: 10px;
+}
+
 
 /* navbar hover customization */
 
@@ -145,11 +149,6 @@ hr {
   color: #000;
 }
 
-/* picture */
-.pic{
-/*   padding-top: 5%; */
-}
-
 /* title + text */
 #description {
   padding-left: 15%;
@@ -160,17 +159,7 @@ hr {
   padding-bottom: 2%;
 }
 
-#quote-about {
-  margin-top: 10%;
-}
-
-.blockquote-reverse {
-  border: 0;
-  font-size: 18px;
-  color: #000;
-  font-style: italic;
-}
-
+/* My projects Section */
 .bg-work {
   padding-top: 2%;
   padding-bottom: 6%;
@@ -191,6 +180,7 @@ hr {
 }
 
 .ph-description{
+  margin-top: 10px;
   width: auto;
 }
 
