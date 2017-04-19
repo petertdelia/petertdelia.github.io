@@ -72,7 +72,7 @@ h1 {
 .bg-home {
   height: 100%;
   padding-top: 8%;
-  background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url('https://dl.dropboxusercontent.com/s/yc17ypyn6w2kodr/hom-bg.png?dl=0');
+  background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url('../images/home-bg.png');
   background-size: cover;
 }
 
