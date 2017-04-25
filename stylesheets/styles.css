@@ -141,6 +141,11 @@ hr {
 
 /* About Me section customization */
 /* background */
+
+#about h1 {
+  text-transform: uppercase;
+}
+
 .bg-about {
   padding-top: 5%;
   padding-bottom: 5%;
@@ -149,8 +154,12 @@ hr {
   color: #000;
 }
 
-.skills {
+.skills, .what-next {
   margin-top: 20px
+}
+
+.skills ul {
+  margin-left: 50px
 }
 
 #about hr {
