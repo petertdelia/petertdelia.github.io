@@ -1,6 +1,6 @@
 <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
   <div class="container-fluid">
-    <div class="navbar-header">
+    <!--<div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
         <span class="sr-only">Toggle navigation</span>
         <span class="icon-bar"></span>
@@ -12,32 +12,41 @@
       {% else %}
         <a class="navbar-brand" href="{{ site.url }}">{{ site.title }}</a>
       {% endif %}
-    </div>
+    </div>-->
 
     <div class="collapse navbar-collapse" id="main-navbar">
       <ul class="nav navbar-nav navbar-left">
+        <li>
+          <a href="{{ site.url }}" title="Home">
+            <span class="fa-stack fa-lg" aria-hidden="true">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <i class="fa fa-home fa-stack-1x fa-inverse"></i>
+            </span>
+            <span class="sr-only">Home</span>
+          </a>
+        </li>
         {% if site.author.email and site.footer-links-active.email %}
-          <li>
-            <a href="mailto:{{ site.author.email }}" title="Email me">
-              <span class="fa-stack fa-lg" aria-hidden="true">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
-              </span>
-              <span class="sr-only">Email me</span>
-            </a>
-          </li>
-          {% endif %}
-          {% if site.author.linkedin and site.footer-links-active.linkedin %}
-          <li>
-            <a href="https://linkedin.com/in/{{ site.author.linkedin }}" target="_blank" title="LinkedIn">
-              <span class="fa-stack fa-lg" aria-hidden="true">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
-              </span>
-              <span class="sr-only">LinkedIn</span>
-            </a>
-          </li>
-          {% endif %}
+        <li>
+          <a href="mailto:{{ site.author.email }}" title="Email me">
+            <span class="fa-stack fa-lg" aria-hidden="true">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+            </span>
+            <span class="sr-only">Email me</span>
+          </a>
+        </li>
+        {% endif %}
+        {% if site.author.linkedin and site.footer-links-active.linkedin %}
+        <li>
+          <a href="https://linkedin.com/in/{{ site.author.linkedin }}" target="_blank" title="LinkedIn">
+            <span class="fa-stack fa-lg" aria-hidden="true">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+            </span>
+            <span class="sr-only">LinkedIn</span>
+          </a>
+        </li>
+        {% endif %}
       </ul>
 
       <ul class="nav navbar-nav navbar-right">
