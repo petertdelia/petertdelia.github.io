@@ -1,20 +1,17 @@
 <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
   <div class="container-fluid">
-    <!--<div class="navbar-header">
+    <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
         <span class="sr-only">Toggle navigation</span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      {% if site.title-img %}
+      <!--{% if site.title-img %}
         <a class="navbar-brand navbar-brand-logo" href="{{ site.url }}"><img src="{{ site.title-img }}"/></a>
       {% else %}
         <a class="navbar-brand" href="{{ site.url }}">{{ site.title }}</a>
-      {% endif %}
-    </div>-->
-
-    <div class="collapse navbar-collapse" id="main-navbar">
+      {% endif %}-->
       <ul class="nav navbar-nav navbar-left">
         <li>
           <a href="{{ site.url }}" title="Home">
@@ -25,6 +22,11 @@
             <span class="sr-only">Home</span>
           </a>
         </li>
+      </ul>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-left">
         {% if site.author.email and site.footer-links-active.email %}
         <li>
           <a href="mailto:{{ site.author.email }}" title="Email me">

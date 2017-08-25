@@ -1,22 +1,5 @@
 @import url("pygment_highlights.css");
 
-/* custom */
-
-[role="main"] li {
-  margin: 10px 0;
-}
-
-#demo {
-  max-width: 800px;
-  min-width: 600px;
-}
-
-.navbar-left a {
-  padding-top: 5px !important;
-}
-
-/* end custom */
-
 /* --- General --- */
 
 body {
@@ -127,7 +110,7 @@ img {
 
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
-  font-weight: 800;
+  font-weight: 700;
   color: #404040;
 }
 
@@ -763,3 +746,31 @@ color: #f1c40f;
 .gist, .gist-file table tr td {
   border: unset;
 }
+
+/* custom */
+
+[role="main"] li {
+  margin: 10px 0;
+}
+
+#demo {
+  max-width: 800px;
+  min-width: 600px;
+}
+
+@media only screen and (max-width: 768px) {
+  .navbar-header .navbar-left {
+    margin-left: 15px;
+  }
+}
+
+.navbar-left a {
+  padding-top: 5px !important;
+  font-size: 16px !important;
+}
+
+.navbar>.container-fluid .navbar-brand {
+  margin-left: 0;
+}
+
+/* end custom */
