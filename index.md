@@ -1,14 +1,20 @@
 ---
 layout: page
 title: Antoine Leclercq
-subtitle: Hello, I am a <strong>Software Engineer</strong> and Passionate Learner
+subtitle: Hello, I am a Software Engineer based in NYC
 use-site-title: true
 ---
 
-## *Currently looking for my next opportunity in NYC.*
+### Current Activity
 
-I am passionate about learning, solving problems, helping the community and Software Engineering. I first got into programming while being a Data Analyst intern for a year in New York City. The Software Engineers I was working with were very talented and managed to communicate their passion to me. I started teaching myself programming with online resources while doing my internship and I developed a passion for it. A passion so strong that I decided to pursue, even after my internship ended in January 2016.
+Looking for my next opportunity.
 
-I am co-creator of Workerholic, a Background Job Processor written in Ruby. You can find the project's story **[here](https://workerholic.github.io){:target="_blank"}**.
+### About Me
+
+I am a software engineer with a passion for learning and solving difficult problems, especially ones that impact the software engineering community. I first became interested in programming while working as a Data Analyst in New York City. I saw the passion with which the software engineers at my company worked and the types of problems they were working on, and realized that this is something I wanted to do. Soon after, I started my journey to become a software engineer myself. After two years full time of careful study and deep learning, I was finally able to complete the transition.
+
+I am co-creator of Workerholic, a Background Job Processor written in Ruby.
+<br>
+**[Check it out!](https://workerholic.github.io){:target="_blank"}**
 
 {% include latest_project.md %}
