@@ -5,6 +5,12 @@ subtitle: Hello, I am a Software Engineer based in NYC
 use-site-title: true
 ---
 
+### My talk at the biggest Ruby Meetup in NYC (~ 100 people)
+
+<div class="talk">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/BnTT01k1Ztg?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ### About Me
 
 I am a Software Engineer with a passion for learning and solving difficult problems, such as **[building an efficient and scalable Background Job Processor from scratch](https://workerholic.github.io){:target="_blank"}**. I mainly work with Ruby and JavaScript. On my spare time I invest into my hobbies, which include: playing the piano, going by the ocean and ride on waves (whether it’s by surfing, kitesurfing or windsurfing), and, fostering kittens from the ACC (Animal Care Center) until they’re of age of being adopted!
