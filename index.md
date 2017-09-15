@@ -5,7 +5,7 @@ subtitle: Hello, I am a Software Engineer based in NYC
 use-site-title: true
 ---
 
-### My talk at the biggest Ruby Meetup in NYC (~ 100 people)
+### My talk at NYC.rb (largest Ruby meetup in NYC)
 
 <div class="talk">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/BnTT01k1Ztg?rel=0" frameborder="0" allowfullscreen></iframe>
