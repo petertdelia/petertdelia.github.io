@@ -8,7 +8,7 @@ use-site-title: true
 ### My talk at NYC.rb (largest Ruby meetup in NYC)
 
 <div class="talk">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/BnTT01k1Ztg?rel=0" frameborder="0" allowfullscreen></iframe>
+  <iframe width="700" height="394" src="https://www.youtube.com/embed/BnTT01k1Ztg?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ### About Me
