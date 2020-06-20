@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Projects
-subtitle: What I built with my own keyboard!
+subtitle: OSS And Personal Projects
 ---
 
-## [Workerholic](https://workerholic.github.io){:target="_blank"}
+## [Workerholic](https://workerholic.github.io){:target="_blank"} - 2017
 
 [![workerholic](/img/workerholic_logo-1.png){:width="190"}](https://workerholic.github.io){:target="_blank" style="float: left; margin-right: 20px;"}
-**Workerholic is an efficient and scalable Background Job Processor I built from scratch**, with my two teammates. The story behind Workerholic is about of how three Software Engineers decided to shed some light on Background Job Processors. We started by developing a deeper understanding about the use for a Background Job Processor (BJP), then we identified the most popular ones in the Ruby-ecosystem and, finally, we built one from scratch.
+**Workerholic is an efficient and scalable Background Job Processor I built from scratch** with two teammates. The story behind Workerholic is about of how we decided to shed some light on Background Job Processors. We started by developing a deeper understanding about the use for a Background Job Processor (BJP), then we identified the most popular ones in the Ruby-ecosystem, and finally, we built one from scratch.
 
 ### Features
 
@@ -19,25 +19,3 @@ subtitle: What I built with my own keyboard!
 - Runs on multiple Ruby implementations (MRI and JRuby)
 
 [![demo_workerholic](/img/demo_workerholic_0.gif){:id="demo"}](https://workerholic.github.io){:target="_blank"}
-
-## Other Projects
-
-### Myflix
-
-[![myflix_preview](/img/myflix_preview.png){:width="400"}](https://github.com/antoineleclercq/myflix){:target="_blank" style="float: left; margin-right: 20px;"}
-
-A video subscription web service application with account management, administration capabilities, email notifications, possibility to invite friends, user following feature, subscription and payments handling.
-
-<br>
-**Tools:** *Ruby, Rails, TDD/BDD, Rspec, Capybara, Redis, Sidekiq, Amazon S3*
-
-
-### Antrello
-
-[![antrello_preview](/img/antrello_preview.png){:width="400"}](https://github.com/antoineleclercq/myflix){:target="_blank" style="float: left; margin-right: 20px;"}
-
- A project management web application based on Trello that allows for creation, deletion, archival, reorganization, labeling and keyword search of lists and cards in list.
-
-<br>
-
- **Tools:** *JavaScript, Backbone, Express, PostgreSQL, Jasmine, Jade, Stylus, Handlebars*
