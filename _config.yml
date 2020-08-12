@@ -14,16 +14,16 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Antoine Leclercq
+title: Antoine Leclercq's Website - Software Developer
 
 # Short description of your site
-description: My personal website containing information about myself and my projects
+description: Talks, projects, resume, and an introduction by Antoine Leclercq.
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  Workerholic: "https://workerholic.github.io"
+  Talks: "talks"
   Projects: "projects"
   Resume: "resume"
 
@@ -139,6 +139,8 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
+  - gems
+  - install-gems.sh
 
 # prose.io config
 prose:
@@ -192,8 +194,8 @@ prose:
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
 
-gems:
-  - jekyll-paginate
+# plugins:
+#   - jekyll-paginate
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
