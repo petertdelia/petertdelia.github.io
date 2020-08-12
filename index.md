@@ -1,29 +1,46 @@
 ---
 layout: page
 title: Antoine Leclercq
-subtitle: Hello, I am a Software Engineer based in NYC
+subtitle: Software Developer
 use-site-title: true
 ---
 
-### Talks
+## Talks
 
- Lightning talk at RubyConf 2018 in Los Angeles:
+#### Lightning Talk at RubyConf 2018 in Los Angeles
+
 <div class="talk">
   <iframe width="700" height="394" src="https://www.youtube.com/embed/8s--ZyTmFxU?start=4188" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-### About Me
+#### Talk at [NYC.rb](https://www.meetup.com/NYC-rb/events/235117573/) in 2017 - Largest Ruby Meetup in NYC
 
-I am a software developer committed to continuously improving my knowledge of software product development science.
+<div class="talk">
+  <iframe width="700" height="394" src="https://www.youtube.com/embed/BnTT01k1Ztg?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
-I am a Software Engineer with a passion for learning and solving big problems, such as **[building an efficient and scalable Background Job Processor from scratch](https://workerholic.github.io){:target="_blank"}**. I consider myself tool-agnostic but lately I have mainly been working with Ruby and JavaScript. On my spare time I invest into my hobbies, which include: playing the piano, going by the ocean and ride on waves (whether it’s by surfing, kitesurfing or windsurfing), and, fostering kittens from the ACC (Animal Care Center) until they’re of age of being adopted!
 
-I am a co-creator of Workerholic, an efficient and scalable Background Job Processor written in Ruby ➡ **[Check it out!](https://workerholic.github.io){:target="_blank"}**
+## About Me
 
-### Technical Interests
+Hi. I'm Antoine Leclercq.
 
-I am fascinated by the Software Engineering field and its wide variety of problems that need to be solved. From adding a checkbox to a web page using HTML and CSS to scaling an app from 100 to 100 millions users, the problems and solutions seem endless. I have a personal preference for writing server-side code but I am as efficient on the front-end, which would classify me as a Backend/Fullstack/Software Engineer. New concepts and topics don't scare me, on the contrary, when I encounter them I love to dig deep and acquire a strong understanding.
+I am a professional software developer committed to producing value-added work by continuously improving my knowledge of software product development and the practice of its science.
 
-My goal as a Software Engineer is to solve big problems which impact a large number of users, whether the user is a person, a business or a developer. This is why I built [Workerholic](https://workerholic.github.io). By exposing how to build an efficient and scalable Background Job processor from scratch I hope to help other developers be more productive and come up with better solutions when it comes to designing their background jobs system. This is also why I recently gave a [talk](https://youtu.be/BnTT01k1Ztg){:target="_blank"} at the largest Ruby Meetup in NYC about this project.
+Amongst my professional experiences, I have led critical technical projects, I have enabled cross-team communication at a 100+ developers organization, I have built an Open Source project, and I have given technical talks meetups and a conference.
 
-{% include latest_project.md %}
+My approach to software is steeped in the essence of Agile and its principles. My goal is to write maintainable and flexible software. I believe that, as a professional software developer, it's my responsibility to produce value-added work, avoid making rework-inducing  mistakes (architectural mistakes, design mistakes, development mistakes, etc.). That is why I strive to continuously improve my knowledge and practice of software design, system design, and software product development processes.
+
+## Technical Interests
+
+- Distributed Systems
+- Domain Analysis
+- Event Sourcing
+- Systems Integration
+- Test Driven Development
+- Software Design Qualities
+- Software Design Principles
+- Software Design Patterns
+- Deployment and Operations
+- Ruby
+- JavaScript
+- Java
