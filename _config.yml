@@ -14,16 +14,16 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Antoine Leclercq
+title: Antoine Leclercq's Website - Software Developer
 
 # Short description of your site
-description: My personal website containing information about myself and my projects
+description: Talks, projects, resume, and an introduction by Antoine Leclercq.
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  Workerholic: "https://workerholic.github.io"
+  Talks: "talks"
   Projects: "projects"
   Resume: "resume"
 
