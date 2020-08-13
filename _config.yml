@@ -23,7 +23,7 @@ description: Talks, projects, resume, and an introduction by Antoine Leclercq.
 
 # List of links in the navigation bar
 navbar-links:
-  Talks: "talks"
+  Media: "media"
   Projects: "projects"
   Resume: "resume"
 
