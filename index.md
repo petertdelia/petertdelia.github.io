@@ -8,15 +8,15 @@ use-site-title: true
 ## About Me
 
 Hello, I'm Peter. I am a software engineer and co-creator of Dendro, an open-source monitoring framework built with AWS and designed for small distributed systems. 
+
+I recently built Dendro, an open-source, serverless monitoring framework for small, distributed apps, in order to help small teams handle the challenges of operating a distributed system.
 <br>
 
-## Projects  
+## [![Dendro](/img/logo_with_text_aside.png){:width="75%"}](https://getdendro.com)
 
-#### Dendro
+<br>
 
-Dendro is an open-source, serverless monitoring framework for small, distributed apps. As part of a team of 4, I built Dendro in order to help small teams handle the challenges of operating a distributed system.
-
-[![Dendro](/img/logo_with_text_aside.png){:width="75%"}](https://getdendro.com)
+I recently built Dendro, an open-source, serverless monitoring framework for small, distributed apps, in order to help small teams handle the challenges of operating a distributed system.
 
 To listen to me demoing installing and using Dendro during a presentation of the project, click play below.
 
