@@ -16,7 +16,7 @@ Hello, I'm Peter. I am a software engineer and co-creator of Dendro, an open-sou
 
 Dendro is an open-source, serverless monitoring framework for small, distributed apps. As part of a team of 4, I built Dendro in order to help small teams handle the challenges of operating a distributed system.
 
-[![Dendro](/img/logo_on_dark_bg_aside.png){:width="190"}](https://getdendro.com)
+[![Dendro](/img/logo_with_text_aside.png){:width="75%"}](https://getdendro.com)
 
 To listen to me demoing installing and using Dendro during a presentation of the project, click play below.
 
