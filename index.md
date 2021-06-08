@@ -25,7 +25,7 @@ Dendro collects and centralizes logs and metrics from various sources, enabling 
 
 Dendro is installed via npm, and provides a command line interface that enables users to configure and build a monitoring pipeline with just two commands. It is completely serverless and uses a time-series database to store logs and metrics, making querying by time fast and powerful.
 
-[![Dendro-deploy](/img/deploy-optimized.gif){:width="75%"}](https://getdendro.com)
+[![Dendro-deploy](/img/deploy-optimized.gif){:width="90%"}](https://getdendro.com)
 
 To listen to me demoing installing and using Dendro during a presentation of the project, click play below.
 
