@@ -7,9 +7,8 @@ use-site-title: true
 
 ## About Me
 
-Hello, I'm Peter. I am a software engineer and co-creator of Dendro, an open-source monitoring framework built with AWS and designed for small distributed systems. 
-
-I recently built Dendro, an open-source, serverless monitoring framework for small, distributed apps, in order to help small teams handle the challenges of operating a distributed system.
+Hello, I'm Peter. I am a curious-minded software engineer who enjoys collaboration and problem solving. I recently built Dendro, an open-source monitoring framework built with AWS and designed for small distributed systems. I have full stack experience, with React and Redux on the front end, ExpressJS and Node on the back
+end, and PostgreSQL and MongoDB on the database level.
 <br>
 <br>
 
