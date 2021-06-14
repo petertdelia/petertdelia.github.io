@@ -29,11 +29,20 @@ To listen to me demoing installing and using Dendro during a presentation of the
   <iframe width="100%" height="389" src="https://www.youtube.com/embed/LukfwxWKkkA?start=2107" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+<br>
+
 ## Highlighted Projects
+<br>
+
+### Jello
 
 ![jello](/img/jello.png)
 
 Jello is a a kanban board app built with MongoDB, ExpressJS, and React/Redux.
+
+<br>
+
+### Request Bean
 
 ![rq-bean](/img/rq-bean.png)
 
