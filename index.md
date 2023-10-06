@@ -7,9 +7,8 @@ use-site-title: true
 
 ## About Me
 
-Hello 👋 I'm Pete! I am an enthusiastically product-minded software engineer with years of experience in production systems for high-growth SaaS startups. I love working as part of high-achieving teams focused on building world-class products. I also built Dendro (getdendro.com), an open source observability framework built using AWS services, and intended to be used by small, distributed applications. My non-traditional background includes a Ph.D. in music history and a career as a concertizing classical pianist and teacher. Take a look below to see what I’ve been working on recently!
+Hello 👋 I'm Pete! I am an enthusiastically product-minded software engineer with years of experience in production systems for high-growth SaaS startups. I love working as part of high-achieving teams focused on building world-class products. I also built Dendro (getdendro.com), an open source observability framework built using AWS services, and intended to be used by small, distributed applications. My non-traditional background includes a Ph.D. in music history and a career as a concertizing classical pianist and teacher. Take a look below 👇 to see what I’ve been working on recently!
 
-👇{:text-align="center"}
 <br>
 <br>
 
