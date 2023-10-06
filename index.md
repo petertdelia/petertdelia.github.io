@@ -7,7 +7,7 @@ use-site-title: true
 
 ## About Me
 
-Hello, I'm Peter. I am a curious-minded software engineer who enjoys collaboration and problem solving. I recently built Dendro, an open source system monitoring framework built using AWS services, and intended to be used by small, distributed applications. I have years of full stack experience, with React and Redux on the front end, ExpressJS and Node on the back end, and PostgreSQL and MongoDB on the database level. Take a look below to see what I've been working on recently!
+Hello 👋 I'm Pete! I am an enthusiastically product-minded software engineer with years of experience in production systems for high-growth SaaS startups. I love working as part of high-achieving teams focused on building world-class products. I also built Dendro (getdendro.com), an open source observability framework built using AWS services, and intended to be used by small, distributed applications. My non-traditional background includes a Ph.D. in music history and a career as a concertizing classical pianist and teacher.
 <br>
 <br>
 
@@ -32,6 +32,7 @@ To listen to me demoing installing and using Dendro during a presentation of the
 <br>
 
 ## Highlighted Projects
+
 <br>
 
 ### Jello
@@ -47,8 +48,6 @@ Jello is a a kanban board app built with MongoDB, ExpressJS, and React/Redux.
 ![rq-bean](/img/rq-bean.png)
 
 Request Bean is a request bin app built with Ruby on Rails and Postgres. It supports user authentication, webhooks, and websockets.
-
-
 
 ## Technical Interests
 
